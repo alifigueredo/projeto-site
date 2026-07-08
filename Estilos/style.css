@@ -4,7 +4,10 @@
 }
 
 body {
-  background-color: darkblue;
+  background-color: rgb(40, 40, 102);
+}
+main {
+  background-color: aliceblue;
   width: 500px;
   margin: auto;
   padding: 10px;
